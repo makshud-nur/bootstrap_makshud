@@ -1,3 +1,18 @@
-h1{
-    color: red;
+h1 {
+    color: #e81919;
+}
+.navbar-brand img{
+    width: 50%;
+}
+.btn-success {
+    margin-left: 170px;
+}
+.col-md-6 img{
+    width:75%;
+}
+.border{
+    margin-top: 10px;
+}
+.mrgin{
+    margin-top: 40px;
 }
